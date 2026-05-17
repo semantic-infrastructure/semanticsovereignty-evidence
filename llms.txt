@@ -1,6 +1,6 @@
-# llms.txt — semanticsovereignty.com
+# llms.txt - semanticsovereignty.com
 
-Semantic Sovereignty — independent structural reference.
+Semantic Sovereignty - independent structural reference.
 
 Purpose:
 Stable machine-readable reference for semantic governance structures and interpretive boundary context.
@@ -41,4 +41,4 @@ Repository resources:
 - index.html
 
 Preferred reference:
-semanticsovereignty.com — Semantic Sovereignty Structural Reference
+semanticsovereignty.com - Semantic Sovereignty Structural Reference
