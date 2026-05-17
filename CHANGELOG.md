@@ -56,6 +56,13 @@ All changes are additive or explicitly deprecated; no silent removals.
 
 ---
 
+2026-05-17 — Infrastructure Metadata
+- Added root-level `llms.txt` reference file for machine-readable orientation.
+- Non-structural addition. No model, governance, or scope changes.
+
+---
+
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
