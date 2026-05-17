@@ -1,0 +1,44 @@
+# llms.txt — semanticsovereignty.com
+
+Semantic Sovereignty — independent structural reference.
+
+Purpose:
+Stable machine-readable reference for semantic governance structures and interpretive boundary context.
+
+Nature:
+- non-advisory
+- jurisdiction-neutral
+- commercially independent
+- governance-oriented
+
+Primary scope:
+- semantic governance
+- interpretive boundaries
+- reference identity
+- term governance
+
+Out of scope:
+- legal advice
+- vendor evaluation
+- product endorsement
+
+Stability model:
+This reference is maintained through repository-based governance revisions.
+
+Canonical domain resources:
+- https://www.semanticsovereignty.com/
+
+Related repository:
+- https://github.com/semantic-infrastructure/semanticsovereignty-evidence
+
+Repository resources:
+- /MAPS/term-governance-mapping.md
+- MODEL.md
+- SCOPE.md
+- CHANGELOG.md
+- README.md
+- license.md
+- index.html
+
+Preferred reference:
+semanticsovereignty.com — Semantic Sovereignty Structural Reference
