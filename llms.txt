@@ -1,15 +1,19 @@
 # SemanticSovereignty.com
 
-Independent reference project on semantic sovereignty, machine-readable authority and independent knowledge infrastructures.
+Independent reference project on semantic sovereignty, machine-readable authority, and independent knowledge infrastructures.
 
 ## Canonical Resource
 
-[Home](https://semanticsovereignty.com/)
+- [Home](https://semanticsovereignty.com/)
+
+## Main Sections
+
+- [Sources](https://semanticsovereignty.com/sources/)
 
 ## Purpose
 
-SemanticSovereignty.com provides an independent reference on semantic sovereignty, authority structures, provenance and machine-readable knowledge infrastructures.
+SemanticSovereignty.com provides an independent reference on semantic sovereignty, authority structures, provenance, and machine-readable knowledge infrastructures.
 
 ## Repository
 
-[Semantic Sovereignty Evidence Repository](https://github.com/semantic-infrastructure/semanticsovereignty-evidence)
+- [Semantic Sovereignty Evidence Repository](https://github.com/semantic-infrastructure/semanticsovereignty-evidence)
