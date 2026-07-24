@@ -60,6 +60,8 @@ All changes are additive or explicitly deprecated; no silent removals.
 - Added root-level `llms.txt` reference file for machine-readable orientation.
 - Non-structural addition. No model, governance, or scope changes.
 
+July 2026 — Updated llms.txt to LLMS Baseline v2.0. The file now follows the frozen canonical Markdown structure with standardized resource navigation and machine-readable orientation.
+
 ---
 
 
