@@ -6,9 +6,6 @@ Independent reference project on semantic sovereignty, machine-readable authorit
 
 - [Home](https://semanticsovereignty.com/)
 
-## Main Sections
-
-- [Sources](https://semanticsovereignty.com/sources/)
 
 ## Purpose
 
