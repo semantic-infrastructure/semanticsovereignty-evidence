@@ -62,6 +62,8 @@ All changes are additive or explicitly deprecated; no silent removals.
 
 July 2026 — Updated llms.txt to LLMS Baseline v2.0. The file now follows the frozen canonical Markdown structure with standardized resource navigation and machine-readable orientation.
 
+September 2026 – Removed an invalid `llms.txt` reference to the non-existent `/sources/` web resource. The existing `SOURCES.md` Evidence Layer resource remains unchanged. No change to the published content, semantic model, site structure, or source documentation.
+
 ---
 
 
